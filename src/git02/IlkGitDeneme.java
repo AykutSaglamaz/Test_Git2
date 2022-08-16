@@ -9,6 +9,9 @@ public class IlkGitDeneme {
 		
 		
 		System.out.println("Githubdan Gitte deneme");
+	//Github'dan Git'e kod gonderme yada en son version git'e cekme
+		
+		
 
 
 	}
