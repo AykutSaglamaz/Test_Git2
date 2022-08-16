@@ -6,6 +6,10 @@ public class IlkGitDeneme {
 		
 		
 		System.out.println("ilk deneme Git");
+		
+		
+		System.out.println("Githubdan Gitte deneme");
+
 
 	}
 
